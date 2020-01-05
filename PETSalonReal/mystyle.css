@@ -1,0 +1,64 @@
+.header-in{
+    background: rgb(0,62,124);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    }
+    .menu nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 1rem;
+    margin-right: 1rem;
+    }
+    
+    nav a:hover{
+    color: #ffae00d3;
+    }
+    
+    .img-logo{
+    width: 50%;
+    }
+    
+    h1{
+    font-size: 3rem;
+    }
+    
+    .info{
+    font-size: 1rem;
+    color:red;
+    background:white;
+    }
+    
+    p{
+    margin-left: 2%;
+    font-size: 18px;
+    }
+    
+    .footer-in{
+    font-size: 1rem;
+    color:black;
+    border-top:5px solid black ;
+    height:100px;
+    }
+    
+    .found{
+    background: pink;
+    }
+    
+    footer{
+    background: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    height: 30px;
+    border: 20px;
+    }
+    
+    h2{
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    }
